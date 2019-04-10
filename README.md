@@ -1,2 +1,2 @@
-# MyBegin
+# Simple Site
 Simple Site
